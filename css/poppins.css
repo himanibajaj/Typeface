@@ -1,0 +1,74 @@
+@charset "UTF- 8";
+
+.nav-link {
+	color:white !important;
+}
+.container{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.card {
+    color: #005757;
+    padding: 20px;
+    
+    
+}
+ .bg-dark{
+     background-color:#005757 !important ;
+ }
+.nav item {
+color: #005757;
+}
+.card-footer-ch {
+	height: 55px;
+}
+
+.footer{
+	background-color: #005757;	
+	height: 60px;
+	color: white;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px;
+   
+}
+ 
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:wght@300&family=Roboto&display=swap');
+.poppins-h1, .poppins-h2, .poppins-h3, .poppins-h4, .poppins-body, .poppins-emp, .poppins-link{
+    font-family:'Poppins', sans-serif;
+}
+.poppins-h1{
+    font-weight: 700;
+    font-size: 4.209rem;
+}
+
+.poppins-h2{
+    font-weight: 500;
+    font-size: 3.157rem;
+}
+
+.poppins-h3{
+    font-weight: 200;
+    font-size: 2.369rem;
+}
+
+.poppins-h4{
+    font-weight: 400;
+    font-size: 1.777rem;
+}
+
+.poppins-body{
+    font-weight: 400;
+    font-size: 1rem;
+}
+
+.poppins-emp{
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.poppins-link{
+    font-weight: 400;
+    font-size: 1rem;
+    color: darkblue;
+}

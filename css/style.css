@@ -1,0 +1,33 @@
+@charset "UTF- 8";
+
+.nav-link {
+	color:white !important;
+}
+.container{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.card {
+    color: #005757;
+    padding: 20px;
+    
+    
+}
+ .bg-dark{
+     background-color:#000000 !important ;
+ }
+.nav item {
+color: #005757;
+}
+
+
+.footer{
+	background-color: #005757;	
+	height: 60px;
+	color: white;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px;
+   
+}
+ 

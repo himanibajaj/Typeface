@@ -1,0 +1,57 @@
+@charset "UTF- 8";
+
+.nav-link {
+	color:white !important;
+}
+.container{
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+.card {
+    color: #005757;
+    padding: 20px;
+    
+    
+}
+ .bg-dark{
+     background-color:#005757 !important ;
+ }
+.nav item {
+color: #005757;
+}
+.card-footer-ch {
+	height: 55px;
+}
+
+.footer{
+	background-color: #005757;	
+	height: 60px;
+	color: white;
+	font-size: .8rem;
+	text-align: center;
+	padding-top: 20px;
+   
+}
+ 
+
+/*.btn-primary{
+background-color: #c3b5e0;
+color:white;
+border: none;
+}
+
+.btn-primary:hover{
+	background-color: white;
+	color:#c3b5e0 ;
+}
+ .btn-primary:visited{
+background-color: #c3b5e0 !important;
+}
+.modal-content{
+	text-align: center;
+}
+.accordion-button:not(.collapsed) {
+	color: white;
+	background-color: #c3b5e0;
+	box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+  }
